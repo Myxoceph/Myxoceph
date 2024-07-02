@@ -7,7 +7,7 @@
 
 - I’m currently working on [Minishell](https://github.com/Myxoceph/Minishell)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Myxoceph?tab=repositories](https://github.com/Myxoceph?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Myxoceph?tab=repositories)
 
 - 💬 Ask me about **C**
 
