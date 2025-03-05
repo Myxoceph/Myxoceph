@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Myxoceph?tab=repositories)
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C** - **C++**
 
 - 📫 How to reach me **ahmetbakircan@gmail.com**
 
