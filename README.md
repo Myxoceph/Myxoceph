@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myxoceph&label=Profile%20views&color=0e75b6&style=flat" alt="myxoceph" /> </p>
 
-- <\\> I’m currently working on [miniRT](https://github.com/Myxoceph/42miniRT)
+- <\\> I’m currently working on [CPP Module 09](https://github.com/Myxoceph/CPP09)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Myxoceph?tab=repositories)
 
